@@ -1,0 +1,3 @@
+# PyShark Pro 运行依赖
+# 说明：tkinter 是 Python 标准库；Windows 抓包还需要安装 Npcap 驱动。
+scapy>=2.5.0

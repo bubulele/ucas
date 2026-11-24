@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.pcap
+!samples/*.pcap
+build/
+dist/
+*.spec.bak
+.deps/
+_shot*.png
+_off_*.png
+*.log
